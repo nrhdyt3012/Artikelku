@@ -62,11 +62,3 @@ Artikelku/
 ## Kontribusi
 
 Kontribusi sangat terbuka! Silakan buat pull request atau laporkan masalah melalui issue.
-
-## Lisensi
-
-Lisensi proyek ini tidak ditentukan. Silakan tambahkan informasi lisensi pada repository sesuai kebutuhan Anda.
-
----
-
-> _README ini dihasilkan otomatis berdasarkan struktur dan konfigurasi proyek. Silakan tambahkan detail lebih lanjut sesuai kebutuhan aplikasi Anda._
