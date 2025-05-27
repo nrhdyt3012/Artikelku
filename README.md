@@ -2,6 +2,10 @@
 
 Artikelku adalah sebuah aplikasi Android yang dikembangkan menggunakan Kotlin. Proyek ini tampaknya berfungsi sebagai aplikasi daftar artikel dengan tampilan berbasis RecyclerView, serta berbagai fitur modern Android.
 
+
+## View APK
+![View1](https://github.com/nrhdyt3012/Artikelku/blob/main/Screenshot_20250527_100207_Screenshot_20250527_100303.jpeg)
+![View2](https://github.com/nrhdyt3012/Artikelku/blob/main/Screenshot_20250527_100326_Screenshot_20250527_100402_Screenshot_20250527_100345.jpeg)
 ## Fitur Utama
 
 - **Dibangun dengan Kotlin**
